@@ -1,0 +1,10 @@
+[plantuml]
+....
+@startuml
+
+skin rose
+
+Bob -> Alice: Hello!
+
+@enduml
+....
